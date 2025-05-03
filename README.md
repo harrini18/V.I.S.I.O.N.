@@ -113,4 +113,8 @@ Open a Pull Request.
 Contact
 For questions or feedback, please open an issue on GitHub or contact harrinishree22@gmail.com
 
+# OUTPUT
+![image](https://github.com/user-attachments/assets/77a9fa7e-f652-4ded-a1a9-4332034337ce)
+
+
 Stay ahead of the curve with V.I.S.I.O.N. – Where Trends Meet Tomorrow!
