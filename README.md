@@ -109,9 +109,8 @@ Make your changes and commit (git commit -m "Add your feature").
 Push to your branch (git push origin feature/your-feature).
 Open a Pull Request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 Contact
-For questions or feedback, please open an issue on GitHub or contact your-email@example.com.
+For questions or feedback, please open an issue on GitHub or contact harrinishree22@gmail.com
 
 Stay ahead of the curve with V.I.S.I.O.N. – Where Trends Meet Tomorrow!
